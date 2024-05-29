@@ -14,13 +14,13 @@ Bu proje, futbol severler için Java ile backend ve Flutter ile frontend oluştu
 ### •	Görevleri: Mobil arayüz tasarımı ve geliştirme. Kullanıcı etkileşimlerini optimize etmek ve uygulamanın genel performansını artırmak. 
 
 ## •	[Takım Üyesi 2]
-### •	Adı: Abdul mecit Usda
+### •	Adı: Abdul Mecit Usda
 ### •	Yetkinlikleri: Java, Spring Boot, 
 ### •	Görevleri: Backend geliştirme. Sunucu tarafı mantığını oluşturmak   ve API'leri geliştirmek.
 ## [Takım Üyesi 3]
 ### •	Adı: Burak Türk
-### •	Yetkinlikleri: Api,
-### •	Görevleri: veri tabanı yönetimi. Veri tabanını tasarlamak ve API'leri geliştirmek.
+### •	Yetkinlikleri: Api,Veri Tabanı
+### •	Görevleri: Veri tabanı yönetimi. Veri tabanını tasarlamak ve API'leri geliştirmek.
 ## Kullanılacak Teknolojiler
 ## Yazılım Teknolojileri
 ### •	Frontend: Flutter, Dart

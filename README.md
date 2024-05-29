@@ -40,9 +40,9 @@ Projede aşağıdaki yazılım geliştirme süreci benimsenmiştir:
 ## Katkıda Bulunma ve Destek
 ## Yazılımcılar İçin Davet
 Projeye katkıda bulunmak isteyen yazılımcılar, bizimle iletişime geçerek açık kaynak kodlu projeye katkı sağlayabilirler. Projemize katılarak, birlikte yenilikçi çözümler geliştirebilir ve kariyerinizde değerli deneyimler kazanabilirsiniz.
-### •	Email: mirac_usda@hotmail.com
+### •	Email: elevenforglory@gmail.com
 ### •	GitHub: mecitusda
 ## Yatırımcılar ve Bağışçılar İçin Davet
 Projeye finansal destek sağlamak isteyen yatırımcılar ve bağışçılar, bizimle iletişime geçebilirler. Projemize yapacağınız finansal katkılar, projenin daha hızlı ve etkili bir şekilde tamamlanmasını sağlayacaktır.
-### •	Email: mirac_usda@hotmail.com
+### •	Email: elevenforglory@gmail.com
 ### •	GitHub: mecitusda
